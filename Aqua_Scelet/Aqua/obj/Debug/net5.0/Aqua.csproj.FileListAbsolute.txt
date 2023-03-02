@@ -1,0 +1,32 @@
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\bin\Debug\net5.0\Aqua.exe
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\bin\Debug\net5.0\Aqua.deps.json
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\bin\Debug\net5.0\Aqua.runtimeconfig.json
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\bin\Debug\net5.0\Aqua.runtimeconfig.dev.json
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\bin\Debug\net5.0\Aqua.dll
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\bin\Debug\net5.0\ref\Aqua.dll
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\bin\Debug\net5.0\Aqua.pdb
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\Aqua.csproj.AssemblyReference.cache
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\Aqua.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\Aqua.AssemblyInfoInputs.cache
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\Aqua.AssemblyInfo.cs
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\Aqua.csproj.CoreCompileInputs.cache
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\Aqua.dll
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\ref\Aqua.dll
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\Aqua.pdb
+D:\_PMG\_UROCI_2022_2023\11_Software\05_UnitTest\01.Компонентно тестване\_Exercice\Aqua\Aqua\obj\Debug\net5.0\Aqua.genruntimeconfig.cache
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\bin\Debug\net5.0\Aqua.exe
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\bin\Debug\net5.0\Aqua.deps.json
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\bin\Debug\net5.0\Aqua.runtimeconfig.json
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\bin\Debug\net5.0\Aqua.runtimeconfig.dev.json
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\bin\Debug\net5.0\Aqua.dll
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\bin\Debug\net5.0\ref\Aqua.dll
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\bin\Debug\net5.0\Aqua.pdb
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\Aqua.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\Aqua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\Aqua.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\Aqua.AssemblyInfo.cs
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\Aqua.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\Aqua.dll
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\ref\Aqua.dll
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\Aqua.pdb
+C:\Users\Student\Documents\Daniel11bN7\Razrabotka_Na_Software\Aqua_Scelet\Aqua\obj\Debug\net5.0\Aqua.genruntimeconfig.cache
